@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianmotadv" alt="cristianmotadv" /></a> </p>
 
+
+
+
 - 🚍 Atualmente trabalho como **Despachante**
 
 - 📚 Gosto de estudar e trabalhar de forma **coletiva e mútua**
@@ -12,8 +15,6 @@
 - 🤝 Estou procurando ajuda para **C# e derivados 😂**
 
 - 📫 Como entrar em contato comigo: **cristianmotadv@gmail.com**
-
-- ⚡ Curiosidade: **É biscoito ou bulacha?**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
