@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Cristian !</h1>
+<h1 align="center">Olá! Me chamo Cristian :)</h1>
 <h3 align="center">Um jovem iniciante em programação, com um sonho de tornar-se um grande desenvolvedor Full Stack :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianmotadv&label=Visualiza%C3%A7%C3%B5es%20de%20Perfil&color=0033ff&style=flat" alt="cristianmotadv" /> </p>
